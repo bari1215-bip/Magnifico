@@ -1,0 +1,48 @@
+.btn {
+    background-color: #2563EB;
+    margin-left: 7px;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 15px 30px;
+}
+
+.btn-img {
+    padding-top: 3px;
+    padding-left: 10px;
+}
+
+
+.btn-three{
+    font-size: 15px;
+    background-color: #2563EB;
+    margin-left: 7px;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 15px 30px;
+}
+
+.team_form{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-top: 24px;
+    margin-left: 90px;
+}
+
+.email_input{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 14px 16px;
+    width: 350px;
+}
+
+.email_input input{
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 16px;
+}

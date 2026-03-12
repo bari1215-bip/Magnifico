@@ -1,0 +1,33 @@
+.tempus_left{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.tempus__content{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    font-size: 56px;
+}
+
+.tempus-text{
+    font-size: 15px;
+    margin-top: 24px;
+    color: #475569;
+}
+
+.tempus-silka{
+    font-size: 16px;
+    margin-top: 24px;
+    color: #2563EB;
+}
+
+.tempus-strelka{
+    margin-top: 40px;
+    margin-left: 16px;
+}
+
+.tempus__inner{
+    margin-left: 200px;
+    margin-top: 80px;
+}

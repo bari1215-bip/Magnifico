@@ -1,0 +1,38 @@
+.needs__title{
+    margin-top: 160px;
+    font-size: 56px;
+    margin-left: 90px;
+    font-weight: 700px;
+}
+
+.needs__text{
+    color: #475569;
+    margin-left: 90px;
+    margin-top: 24px;
+}
+
+.needs__silka{
+    margin-left: 90px;
+    margin-top: 24px;
+    color: #2563EB;
+}
+
+.needs-strelka{
+    margin-top: 3px;
+    margin-left: 16px;
+}
+
+
+.needs__content {
+    display: flex;
+}
+
+
+.needs-foto{
+    margin-left: 128px;
+    margin-top: 50px;
+}
+
+.needs__inner{
+    margin-left: 200px;
+}

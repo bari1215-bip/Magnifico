@@ -1,0 +1,39 @@
+.solved-images{
+    position: relative;
+}
+
+.solved-foto{
+    display: block;
+    margin-top: 160px;
+}
+
+.text{
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    transform: translate(-10%, -35%);
+    color: white;
+}
+
+.solved__title{
+    font-size: 46px;
+    margin-left: 6px;
+}
+
+.solved-text{
+margin-left: 10px;
+line-height: 1.6;
+font-size: 15px;
+}
+
+.solved-strelka{
+    margin-top: 3px;
+    margin-left: 16px;
+}
+
+.solved-silka{
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 24px;
+}
+
