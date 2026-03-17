@@ -20,6 +20,7 @@
     font-size: 16px;
     margin-top: 24px;
     color: #2563EB;
+    cursor: pointer;
 }
 
 .tempus-strelka{
@@ -28,6 +29,10 @@
 }
 
 .tempus__inner{
-    margin-left: 200px;
-    margin-top: 80px;
+   margin: 80px 0px 0px 200px;
 }
+
+
+
+
+

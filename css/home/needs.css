@@ -1,20 +1,18 @@
 .needs__title{
-    margin-top: 160px;
+   margin: 160px 0px 0px 90px;
     font-size: 56px;
-    margin-left: 90px;
-    font-weight: 700px;
 }
 
 .needs__text{
     color: #475569;
-    margin-left: 90px;
-    margin-top: 24px;
+    margin: 24px 0px 0px 90px;
 }
 
 .needs__silka{
     margin-left: 90px;
     margin-top: 24px;
     color: #2563EB;
+    cursor: pointer;
 }
 
 .needs-strelka{
@@ -36,3 +34,13 @@
 .needs__inner{
     margin-left: 200px;
 }
+
+
+
+
+
+
+
+
+
+

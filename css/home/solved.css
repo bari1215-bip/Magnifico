@@ -35,5 +35,53 @@ font-size: 15px;
     margin-left: 10px;
     display: inline-block;
     margin-top: 24px;
+    cursor: pointer;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px){
+
+.text{
+    position: static;
+    transform: none;
+    margin-top: 20px;
+    color: #000;
+}
+
+.solved-images{
+    display: flex;
+    flex-direction: column;
+}
+
+.solved__title{
+    font-size: 28px;
+}
+
+.solved-text{
+    font-size: 14px;
+}
+
+.solved-foto{
+    margin-top: 80px;
+}
+
+}
