@@ -1,5 +1,9 @@
 .solved-images{
     position: relative;
+    background-image: url("../../images/Container2.png");
+    padding: 80px;
+    min-height: 460px;
+    background-size: cover;
 }
 
 .solved-foto{
@@ -8,10 +12,8 @@
 }
 
 .text{
-    position: absolute;
     top: 30%;
     left: 65%;
-    transform: translate(-10%, -35%);
     color: white;
 }
 
@@ -38,7 +40,9 @@ font-size: 15px;
     cursor: pointer;
 }
 
-
+.solved__content{
+    margin-top: 80px;
+}
 
 
 
@@ -64,7 +68,6 @@ font-size: 15px;
     position: static;
     transform: none;
     margin-top: 20px;
-    color: #000;
 }
 
 .solved-images{
